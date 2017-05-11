@@ -1,0 +1,28 @@
+
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: 'OpenSans', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+#rounds-table {
+  width: 200px;
+  margin: 0 auto;
+}
